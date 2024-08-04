@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/jasminefar">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&duration=3000&pause=1000&color=881438&background=6650FF00&center=true&vCenter=true&width=440&height=90&lines=JASMINE+FAR" alt="Typing SVG" /></a>
+<a href="https://github.com/jasminefar"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&duration=3000&pause=1000&color=881438&background=6650FF00&center=true&vCenter=true&width=440&height=90&lines=JASMINE+FAR" alt="My Profile" /></a>
 </p>
 
 <p align="center">
   <!-- Lettuce Cook Pantry app by JasmineFar - https://github.com/jasminefar/pantry-app -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&pause=1000&color=F72465&background=6650FF00&center=true&vCenter=true&width=440&height=90&lines=Certified+Game+Developer;Learning+new+things;World+Champion+in+BJJ" alt="Typing SVG" /></a>
+<a href="https://github.com/jasminefar"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&pause=1000&color=F72465&background=6650FF00&center=true&vCenter=true&width=440&height=90&lines=Certified+Game+Developer;Learning+new+things;World+Champion+in+BJJ" alt="Jasmine Far" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -51,7 +51,7 @@
   </p>
 
   <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+    <a href="https://github.com/jasminefar?tab=forks"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p>
 </details>
 
